@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sorting-visualizer/static/css/main.087c3a04.css",
-    "main.js": "/sorting-visualizer/static/js/main.36c3d5cc.js",
+    "main.js": "/sorting-visualizer/static/js/main.f2fe7600.js",
     "static/js/787.c4e7f8f9.chunk.js": "/sorting-visualizer/static/js/787.c4e7f8f9.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/sorting-visualizer/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/robot.jpg": "/sorting-visualizer/static/media/robot.193d68debc00ff703c41.jpg",
@@ -14,11 +14,11 @@
     "static/media/logo.png": "/sorting-visualizer/static/media/logo.db77705ebbaf1a282175.png",
     "index.html": "/sorting-visualizer/index.html",
     "main.087c3a04.css.map": "/sorting-visualizer/static/css/main.087c3a04.css.map",
-    "main.36c3d5cc.js.map": "/sorting-visualizer/static/js/main.36c3d5cc.js.map",
+    "main.f2fe7600.js.map": "/sorting-visualizer/static/js/main.f2fe7600.js.map",
     "787.c4e7f8f9.chunk.js.map": "/sorting-visualizer/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.087c3a04.css",
-    "static/js/main.36c3d5cc.js"
+    "static/js/main.f2fe7600.js"
   ]
 }
