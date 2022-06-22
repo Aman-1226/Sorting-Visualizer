@@ -107,7 +107,6 @@ class ModalGuide extends Component {
                     <Modal.Body>
                         <div className="robot-img-div"><img className="robot-img" src={robotimg4} alt="img" /></div>
                         <p>I hope you have just as much fun using this visualising tool as I had building it.</p>
-                        <p>You can check out the source code for this project in my <a href="https://github.com/Aman-1226" target="_blank" rel="noopener noreferrer">Github</a></p>
                     </Modal.Body>
                 </div>
                 <div className="my-footer">
